@@ -1,5 +1,6 @@
 # sql_retail_sales_project
 Project Overview
+
 Project Title: Retail Sales Analysis
 
 Database: projects
